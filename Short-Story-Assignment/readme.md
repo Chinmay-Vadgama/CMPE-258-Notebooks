@@ -8,6 +8,6 @@
 
 ### Survey paper Link : https://arxiv.org/abs/2002.07526
 
-### slide deck available at : https://www.slideshare.net/secret/lseOyPuJpCV0tT
+### slide deck available at : https://www.slideshare.net/secret/wJXQDwL1QUJNf4
 
 Update : Since the size of video is more than 25 MB Github don't allow it to get uploaded here. So, I have shared a google drive link with link access open for all. 
