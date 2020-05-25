@@ -9,3 +9,7 @@ Try out various hyper parameters. provide detailed comments in colab with variou
 Please implement from scratch and not copy
 
 50% points will be to provide tensorboard integration and trying out various layers/activation functions/other hyperparams like optimizers - Please submit the tensorboard result to tensorboard.dev
+
+
+## Tensorboard Integration Link
+**Note : Downloaded ipynb files don't have Tensorboard results. They ommit tensorboard integration. So, please go to original ipynb notebook on google colab : https://colab.research.google.com/drive/1g4BJUxYQsfptxnPMzgvO25Va9v-WUIld?usp=sharing**
